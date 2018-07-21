@@ -12,3 +12,5 @@
 /META.*
 /MYMETA.*
 /local
+.idea
+_Deparsed_XSubs.pm
