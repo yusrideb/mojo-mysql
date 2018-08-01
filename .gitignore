@@ -1,5 +1,6 @@
 *.swp
 *~
+_*
 !.gitignore
 !.perltidyrc
 !.travis.yml
@@ -13,4 +14,3 @@
 /MYMETA.*
 /local
 .idea
-_Deparsed_XSubs.pm
